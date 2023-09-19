@@ -61,6 +61,20 @@
   padding: 0;
   text-transform: uppercase;
 }
+.cont_boxttt {
+  width: 270px;
+  text-align: center;
+-webkit-tap-highlight-color: transparent;
+-webkit-appearance: button;
+background-color: #a30273;
+color: #fff;
+  font-size: 20px;
+font-weight: 700;
+margin: 5px;
+-webkit-mask-image: -webkit-radial-gradient(#000, #fff);
+padding: 0;
+text-transform: uppercase;
+}
 .cont_box:disabled {
   cursor: default;
 }
